@@ -1,4 +1,4 @@
-package Singleton;
+package singleton;
 
 final class CPresident{
 	private static CPresident cPresident;

@@ -1,4 +1,4 @@
-package Prototype;
+package prototype;
 
 public class PrototypePatternExample {
 	public static void main(String[] args) throws CloneNotSupportedException {

@@ -1,4 +1,4 @@
-package BuilderPattern;
+package builderpattern;
 
 public class OfficePC implements Builder {
 	private String brandName;

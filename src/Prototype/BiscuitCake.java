@@ -1,4 +1,4 @@
-package Prototype;
+package prototype;
 
 public class BiscuitCake extends Bakery {
 	public int basePrice=550;

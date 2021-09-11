@@ -1,4 +1,4 @@
-package Prototype;
+package prototype;
 
 class Nano extends BasicCar {
 //A base price for Nano

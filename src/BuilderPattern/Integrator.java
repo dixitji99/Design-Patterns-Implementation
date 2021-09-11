@@ -1,4 +1,4 @@
-package BuilderPattern;
+package builderpattern;
 
 public class Integrator {
 	Builder builder;

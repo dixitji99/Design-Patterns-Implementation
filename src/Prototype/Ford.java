@@ -1,4 +1,4 @@
-package Prototype;
+package prototype;
 
 class Ford extends BasicCar {
 //A base price for Ford

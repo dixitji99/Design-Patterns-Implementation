@@ -1,4 +1,4 @@
-package BuilderPattern;
+package builderpattern;
 
 public interface Builder {
 	void startIntegration();
@@ -6,8 +6,7 @@ public interface Builder {
 	void addKeyboard();
 	void addMouse();
 	void addCpu();
-	void stopIntegration();
-	
+	void stopIntegration();	
 	
 	Product getProduct();
 }

@@ -1,4 +1,4 @@
-package CopyConstructor;
+package copyconstructor;
 
 class Tree{
 	String treeName;

@@ -1,4 +1,4 @@
-package Prototype;
+package prototype;
 import java.util.Random;
 
 public class Bakery implements Cloneable {
